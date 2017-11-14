@@ -25,17 +25,15 @@ npm install
 **
 Start the redis server** 
 
-```
-#!python
+Redis server is available in the code base
 
-redis-server
-```
+Open your CMD as an administrator --> Path of redis folder/redis-server.exe redis.windows.conf Hit enter
+
+Server will start
 
 **Start the node server**
 
 ```
-#!python
-
 node app.js (or npm start )
 ```
 
