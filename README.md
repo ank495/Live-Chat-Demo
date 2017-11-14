@@ -39,10 +39,6 @@ node app.js (or npm start )
 
 **Open the URLs**
 
- [Customer page](http://localhost:8080/)
-
- [Admin page](http://localhost:8080/adminURLL)
-
 Setting up and integrating this app into your website is very easy and can be done in 3 simple steps.
 
 **Set up the config file** : Add all the parameters to set up the application.
