@@ -1,17 +1,5 @@
 # README #
 
-
-
-## Live Demo ##
-
-[Customer](https://www.cronj.com:8082/)
-
-[Admin](https://www.cronj.com:8082/adminURL)
-
-(username : admin , password : password)
-
-## [Click Here for Complete Details](https://www.cronj.com/blog/build-a-live-customer-support-chat/) ##
-
 ## Features ##
 
 * Chat with admin for quick response
@@ -32,8 +20,6 @@
 **Install the dependencies** 
 
 ```
-#!javascript
-
 npm install
 ```
 **
